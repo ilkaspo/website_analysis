@@ -24,7 +24,7 @@ Le librerie `tkinter` e `scrolledtext` sono incluse nella distribuzione standard
 
 ## Utilizzo
 
-1. Inserisci la tua chiave API di OpenAI.
+1. Inserisci la tua chiave API di OpenAI nel file `website_analysis.py` dove richiesto.
 2. Esegui il file `website_analysis.py` per avviare l'applicazione.
 3. Nell'interfaccia grafica, inserisci l'URL del sito web da analizzare nel campo di testo.
 4. Fai clic sul pulsante "Analizza sito" per avviare l'analisi del sito web.
